@@ -1,0 +1,10 @@
+In the main method:
+    a for loop is running 10 times
+    each time the for loop run, it initiates an int variable called "random"
+    assign a random value to "random" by calling a method "generateRandomInteger"
+        method "generateRandomInteger":
+            generate a value between 0 and 9, as its bound is 10
+            then return the generated value
+    print the value
+    when for loop is done running: print a message
+
