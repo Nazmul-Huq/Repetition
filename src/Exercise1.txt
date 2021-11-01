@@ -1,0 +1,7 @@
+Inheritance in java is one of the pillars of OOP, which allows one class to inherit or use variables and methods of another class.
+The class that inherits from another class can be called a subclass and the class from where it inherits is called a superclass.
+This inheritance mechanism can be compared with real-life relation between parents and children, where children inherit property from their parents. Then they can use it directly or can modify it according to their need.
+The main advantage of inheritance is code reusability, so we do not need to write the same code multiple times.
+To be able to inherit from one class to another, there have to be some common features (variables and/or methods) between two classes.
+Inheritance in java is achieved by the keyword "extends".
+Then parent classe's constructor is used by using the keyword "super"
