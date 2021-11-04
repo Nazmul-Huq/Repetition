@@ -1,0 +1,10 @@
+The static keyword in java is a non-access modifier.
+Static variable:
+    When different objects have one common property, then a static keyword is used.
+    Then all objects have access to that variable.
+    For example, during making an employee database, all employees have common property i.e. company name
+    Therefore it is wise to declare company name static.
+    A static variable is also used to count the number of instances or objects created of a particular class.
+Static method:
+    A method is declared as static so that it can be accessed without creating an object of the class
+    Therefore a static method can be accessed from outsides of the class by calling the class directly followed by method name
